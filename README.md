@@ -1,1 +1,1 @@
-#HuGo Demo
+#Hugo Demo
