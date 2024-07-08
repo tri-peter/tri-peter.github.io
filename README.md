@@ -1,1 +1,0 @@
-# tri-peter.github.io
