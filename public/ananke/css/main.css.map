@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/tri/Documents/hugo/tri-peter.github.io/quickstart",
+	"sourceRoot": "/home/tri/Documents/hugo/tri-peter.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
