@@ -2,4 +2,5 @@
 menus = 'main'
 title = 'About'
 +++
-Hugo Demo Site hosted on GitHub Pages
+[![Hugo](https://gohugo.io/images/hugo-logo-wide.svg)](https://gohugo.io)
+A Hugo demo site hosted on GitHub Pages
